@@ -47,7 +47,7 @@
 var localeObj = {
     time: {
         month: [
-            'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
+            'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho teste mentoria git',
             'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'
         ],
         monthAbbr: [
